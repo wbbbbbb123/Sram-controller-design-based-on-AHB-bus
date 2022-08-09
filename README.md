@@ -1,6 +1,5 @@
 # Sram-controller-design-based-on-AHB-bus
 ## 基于 AHB 的 sram 设计框架图显示如下：
-
 ## hsize控制读写数据位宽与数据深度(默认位宽为32bit，深度为2^14)
 
 ![绘图5](https://user-images.githubusercontent.com/71707557/182754272-dd9540d8-3b8e-4967-a1ff-0342555d659a.png)
