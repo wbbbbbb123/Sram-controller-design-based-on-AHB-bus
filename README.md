@@ -3,6 +3,18 @@
 
 ![ahb_sramc_control](https://user-images.githubusercontent.com/71707557/185911793-8c65b49e-e37d-4d1d-b745-6e69bc872b13.png)
 
+### AHB总线传输协议之没有等待状态的单个读写操作:
+
+![没有等待状态的单个传输](https://user-images.githubusercontent.com/71707557/185935469-070d6c22-97d3-4248-958d-b88476e8994c.jpg)
+
+### AHB总线传输协议之有等待状态的单个读写操作:
+
+![插入等待状态的单个读写操作](https://user-images.githubusercontent.com/71707557/185935507-1498f930-3243-45ff-b998-250515906bb2.png)
+
+### AHB总线传输协议之连续读写操作:
+
+![连续读写操作](https://user-images.githubusercontent.com/71707557/185935545-0242f83b-411b-4eb6-9ab1-2d4265828629.png)
+
 ### hsize控制读写数据位宽与数据深度(默认位宽为32bit，深度为2^14)
 
 ![绘图5](https://user-images.githubusercontent.com/71707557/182754272-dd9540d8-3b8e-4967-a1ff-0342555d659a.png)
